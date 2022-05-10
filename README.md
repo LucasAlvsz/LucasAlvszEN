@@ -13,7 +13,7 @@
 const Me = {
     name: Lucas Alves Rodrigues,
     location: Brazil, Brasilia, DF,
-    background: ["Graduating in Mechatronics Engineering - UnB", "Web Full-Stack Developer - Driven"]
+    education: ["Graduating in Mechatronics Engineering - UnB", "Web Full-Stack Developer - Driven"]
     hobbies: ["Music", "Astronomy", "Games", "Audiophilia"]
 }
 ```
