@@ -1,6 +1,6 @@
 ## 🪐 Hello :p
 <div>
-<a href="www.linkedin.com/in/LucasAlvsz/" target="_blank">
+<a href="https://www.linkedin.com/in/LucasAlvsz" target="_blank">
   <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:contato.lucasalv@gmail.com" target="_blank"><img align="left" alt="Gmail" src="https://img.shields.io/badge/-Gmail-%4643?style=for-the-badge&logo=gmail&logoColor=white"></a>
