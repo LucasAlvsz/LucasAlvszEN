@@ -16,8 +16,9 @@
 const Me = {
     name: "Lucas Alves Rodrigues",
     location: ["Brazil", "Brasilia", "DF"],
-    education: ["Graduating in Mechatronics Engineering - UnB", "Web Full-Stack Developer - Driven"],
-    hobbies: ["Music", "Astronomy", "Games", "Audiophilia"]
+    education: ["Mechatronics Engineering - UnB", "Web Full-Stack Developer - Driven"],
+    hobbies: ["Music", "Astronomy", "Games", "Audiophilia"],
+    soundtrack: "Interstellar Main Theme - Extra Extended - By Hans Zimmer"
 }
 ```
 
@@ -70,8 +71,11 @@ const Me = {
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-#### Deploy:
+#### Dev-ops:
 ![Docker Badge](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### Deploy:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -81,6 +85,11 @@ const Me = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
+#### Operational systems:
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 </span>
 
 
