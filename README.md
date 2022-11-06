@@ -72,8 +72,9 @@ const Me = {
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 #### Dev-ops:
-![Docker Badge](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-228FE1?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-002F67?style=for-the-badge&logo=github-actions&logoColor=white)
 
 #### Deploy:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
